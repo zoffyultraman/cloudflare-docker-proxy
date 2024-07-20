@@ -15,6 +15,7 @@ const routes = {
   "ghcr.minepawn.sbs": "https://ghcr.io",
   "cloudsmith.minepawn.sbs": "https://docker.cloudsmith.io",
   "ecr.minepawn.sbs": "https://public.ecr.aws",
+  "dhub.minepawn.sbs": "https://hub.docker.com",
 
   // staging
   "myd-staging.minepawn.sbs": dockerHub,
