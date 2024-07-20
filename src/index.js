@@ -7,7 +7,7 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.minepawn.sbs": dockerHub,
+  "my_d.minepawn.sbs": dockerHub,
   "quay.minepawn.sbs": "https://quay.io",
   "gcr.minepawn.sbs": "https://gcr.io",
   "k8s-gcr.minepawn.sbs": "https://k8s.gcr.io",
