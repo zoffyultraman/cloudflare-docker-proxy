@@ -17,7 +17,7 @@ const routes = {
   "ecr.minepawn.sbs": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.minepawn.sbs": dockerHub,
+  "myd-staging.minepawn.sbs": dockerHub,
 };
 
 function routeByHosts(host) {
