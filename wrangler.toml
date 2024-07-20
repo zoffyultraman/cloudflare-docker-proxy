@@ -20,6 +20,7 @@ name = "cloudflare-docker-proxy"
    { pattern = "k8s.minepawn.sbs", custom_domain = true },
    { pattern = "ghcr.minepawn.sbs", custom_domain = true },
    { pattern = "cloudsmith.minepawn.sbs", custom_domain = true },
+   { pattern = "dhub.minepawn.sbs", custom_domain = true },
  ]
 
 [env.production.vars]
