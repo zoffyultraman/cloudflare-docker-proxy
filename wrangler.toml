@@ -12,7 +12,7 @@ TARGET_UPSTREAM = "https://registry-1.docker.io"
 
 [env.production]
 name = "cloudflare-docker-proxy"
- routes = [
+ #routes = [
    { pattern = "docker.minepawn.sbs", custom_domain = true },
    { pattern = "quay.minepawn.sbs", custom_domain = true },
    { pattern = "gcr.minepawn.sbs", custom_domain = true },
